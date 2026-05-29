@@ -37,7 +37,7 @@ Core Needs: Fast checkout, accurate real-time updates, and securing Tatkal ticke
 
 Key Frustrations: Double payment deductions, frequent random logouts, and severe visual clutter.
 
-🔗  User Persona -- https://www.figma.com/design/DEAyyrH3nqs7h9zzNi5eRr/WIREFRAME?node-id=0-1&t=f1TYOgPHIQ5U4XE4-1
+🔗  User Persona --https://www.figma.com/board/EodcjOMe5LeKkbobNApnFN/IRCTC-App-User-Experience?node-id=0-1&t=KWaWJkbdVaxzXTVe-1
 
 
 📱 Step 4: High-Fidelity UI Redesign
